@@ -23,7 +23,8 @@ Permite diseñar interfaces de forma rápida y consistente.
 ## Inteligencia Artificial
 
 - Groq API 
-- API utilizada para integrar modelos de lenguaje.
+
+API utilizada para integrar modelos de lenguaje.
 Permite analizar los check-ins del usuario y generar:
 - Analisis emocional.
 - Recomendaciones.
