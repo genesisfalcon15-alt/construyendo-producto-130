@@ -8,7 +8,7 @@ Desarrollar una primera versión funcional de Vitta que ayude a los usuarios a m
 
 - Registro e inicio de sesión.
 - Check-in emocional diario.
-- Análisis emocional mediante IA.
+- Análisis corporal mediante IA.
 - Recomendaciones personalizadas.
 - Generación de prioridades diarias.
 - Historial de registros del usuario.
