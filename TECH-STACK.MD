@@ -3,18 +3,18 @@
 ### Frontend
 
 - Nex.js
+
 Framework basado en React para construir la interfaz de usuario.
 Permite crear páginas rápidas, escalables y estructuradas.
 
 - TailwindCSS  
+
 Framework de estilos basado en clases utilitarias.
 Permite diseñar interfaces de forma rápida y consistente.
 
 ## Backend
 
 - Supabase 
-
-- Plataforma backend que incluye:
 - Autenticación de usuarios.
 - Base de Datos PostgreSQL.
 - Apis automáticas.
