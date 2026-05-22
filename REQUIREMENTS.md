@@ -23,7 +23,7 @@
 
 ### Funcionalidad 
 - El sistema envía el texto del check-in a la API de IA (Groq).
-- La IA devuelve analiza al usurio:
+- La IA devuelve analiza al usuario:
 - estado emocional detectado.
 - resumen del contenido.
 - recomendación breve.
