@@ -15,7 +15,7 @@ Vitta permite a los usuarios:
 - Obtener recomendaciones y prioridades diarias.
 - Guarda todos los datos que aportan una mejora global a la salud. En función del estado de ánimo del usuario registrado, le guía para que pueda cumplir sus objetivos diarios.
 
-## MVP Features
+## MVP Features.
 
 - Registro e inicio de sesión.
 - Check-in emocional diario.
